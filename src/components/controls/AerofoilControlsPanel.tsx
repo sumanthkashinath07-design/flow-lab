@@ -1,5 +1,5 @@
 import { Gauge, Info, Ruler, Waves } from 'lucide-react';
-import type { FoilCode, AerofoilControls, AerofoilTapReading } from '../../types';
+import { FoilCode, AerofoilControls, AerofoilTapReading } from '../../types';
 import { experiments } from '../../data/experiments';
 import RangeControl from './RangeControl';
 import { AIRFOILS } from '../../data/airfoils';
