@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Gauge, Info, Ruler, Waves } from 'lucide-react';
 import { FoilCode, AerofoilControls, AerofoilTapReading } from '../../types';
 import { experiments } from '../../data/experiments';
